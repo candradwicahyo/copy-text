@@ -33,4 +33,4 @@ git clone https://github.com/candradwicahyo/copy-text.git
 
 ![preview](https://github.com/candradwicahyo/copy-text/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/copy-text)
+[tekan link ini](https://candradwicahyo.github.io/copy-text) untuk mencoba demo
